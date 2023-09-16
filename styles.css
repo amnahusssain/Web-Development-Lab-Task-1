@@ -1,0 +1,53 @@
+
+.container {
+    border:3px solid black;
+    background-color: rgb(89, 245, 149);
+    width: 500px;
+    height: 500px;
+    padding: 20px;
+}
+
+
+.header{
+    border:3px solid black;
+    background-color: rgb(17, 110, 45);
+    width: 500px;
+    height: 60px;  
+    margin-right: 4px;
+}
+
+.menu{
+    margin-top:4px;
+    border:3px solid black;
+    background-color: rgb(121, 206, 231);
+    width: 500px;
+    height: 30px; 
+    
+}
+.menu2{
+    float: left;
+    border:3px solid black;
+    text-align: center;
+    width: 150px;
+    height:330px;
+    margin-top: 4px;
+    background-color: blue;  
+}
+.content
+{
+    float: right;
+    border:3px solid black;
+    padding: 156px 143px;
+    transform: translate(5px,0px);
+    margin-top: 4px;
+    background-color: blue;
+
+}
+.footer
+{
+    margin-top:345px;
+    border: 3px solid black;
+    height:60px;
+    width:500px;
+    background-color: orange;
+}
